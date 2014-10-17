@@ -8,8 +8,8 @@ cahnge3
  *
  * @author xia
  */
-public class ToGBK{
-
+class ToGBK{
+changge 2
     public static String toGBK(String s){
         String str = s;
         try{
