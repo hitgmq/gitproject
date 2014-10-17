@@ -3,14 +3,12 @@
  * and open the template in the editor.
  */
 package library;
-c1
-changge 2
+cahnge3
 /**
  *
  * @author xia
  */
-public class ToGBK{
-world
+ B3
     public static String toGBK(String s){
         String str = s;
         try{
