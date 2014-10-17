@@ -10,7 +10,7 @@ changge 2
  * @author xia
  */
 public class ToGBK{
-
+world
     public static String toGBK(String s){
         String str = s;
         try{
